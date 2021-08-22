@@ -139,7 +139,7 @@ font-size: 25px;
     margin-top: 0;
 }
 .blurb-info{
-
+   
     color:black;
     font-size: 18 px;
 }
@@ -289,6 +289,13 @@ ul.topnav.responsive li a.nav-link{
 
     display: block;
 }
+
+.blurb-info{
+
+    margin: 5px;
+    font-size: 13px;
+}
+
 
     .portfolio-wrapper{
 
